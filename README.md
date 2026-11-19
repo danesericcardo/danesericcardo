@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Riccardo
 
-<!--
-**danesericcardo/danesericcardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Venture Management at [Reonic](https://reonic.com), based in Berlin. I help solar installers in Italy sell and deliver faster, and I build small tools that turn public data and messy processes into quick answers.
 
-Here are some ideas to get you started:
+#### Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **Verifica Vincoli** | Checks landscape and heritage constraints (D.Lgs. 42/2004) for any Italian parcel in seconds, from cadastral boundaries and national and regional maps. | Python, Streamlit, GIS |
+| **Radar dei bandi** | Tracks Italian public funding calls and incentives and flags the ones relevant to energy projects. | Python, automation |
+| **The Coach** | Personal running and gym coach: syncs Garmin, Hevy and Google Calendar, and plans training with Claude through MCP. | Python, Flask, MCP |
+
+<sub>The code of these projects is private. Happy to show a demo: reach me on [LinkedIn](https://www.linkedin.com/in/riccardodanese/).</sub>
